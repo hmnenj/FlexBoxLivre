@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Sanrio' ;
+    src: url(Boldins.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+.container-fluid{
+    background-color: #1f6494 ;
+    font-family: 'Sanrio';
+    font-size: 25px;
+    
+ }
+
+    .navbar.navbar-expand-lg.bg-body-tertiary{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+     }
+
+     .logo{
+        height: 50px;
+        width: 61px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .title{
+        font-family: 'Sanrio';
+        text-align: center;
+        font-size: 4.5rem;
+    }    
+
+    .text{
+        text-align: center;
+        margin-left: 100px;
+        margin-right: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        align-content: flex-start;
+    }
+    
+    .textlink{
+        margin-left: 5px;
+        margin-right: 5px;
+        text-decoration: none;
+        color: #d6213b ;
+    }
+
+        .imglink{
+            height: 277px;
+            width: 500px;
+            margin-left:500px;
+        }

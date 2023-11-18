@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Sanrio';
+    src: url(Boldins.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Sanrio';
+    
+}
+
+.container-fluid {
+    background-color: #1f6494;
+    font-family: 'Sanrio';
+    font-size: 30px;
+
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo {
+    height: 50px;
+    width: 61px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text{
+    text-align: center;
+    display: table-cell;
+    float: left;
+    width: 570px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.title{
+    font-family: 'Sanrio';
+    text-align: center;
+    font-size: 4.5rem;
+}
+
+.rest{
+    display: table-cell;
+    float: left;
+    width: 720px;
+    height: 480px;
+    margin-left: 60px;
+}
+
+.restno{
+    display: table-cell;
+    float: left;
+    margin-left: 190px;
+    margin-top: 60px;
+}
+
+.textno{
+    text-align: center;
+    display: table-cell;
+    float: left;
+    width: 570px;
+    margin-left: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    margin-top: 170px;
+}
