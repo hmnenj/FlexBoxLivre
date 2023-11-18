@@ -7,7 +7,7 @@
 
 
 
-.text{
+.text {
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
@@ -20,11 +20,11 @@
     border-radius: 10px;
 }
 
-.title{
+.title {
     font-family: 'Sanrio';
     text-align: center;
     font-size: 4.5rem;
-    
+
 }
 
 .container-fluid {
@@ -50,12 +50,13 @@
 
 .container {
     display: flex;
-    justify-content: center; 
-    align-items: center; 
+    justify-content: center;
+    align-items: center;
     object-fit: cover;
 
 }
-img{
+
+img {
     height: 96px;
     width: 1500px;
 }

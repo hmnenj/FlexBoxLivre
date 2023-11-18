@@ -5,11 +5,6 @@
     font-weight: normal;
 }
 
-h1{
-    text-align: center;
-    font-family: 'Sanrio';
-    
-}
 
 .container-fluid {
     background-color: #1f6494;
@@ -33,7 +28,7 @@ h1{
     margin-left: 20px;
 }
 
-.text{
+.text {
     text-align: center;
     display: table-cell;
     float: left;
@@ -48,28 +43,30 @@ h1{
     border-radius: 10px;
 }
 
-.title{
+.title {
     font-family: 'Sanrio';
     text-align: center;
     font-size: 4.5rem;
 }
 
-.rest{
+.rest {
     display: table-cell;
     float: left;
     width: 720px;
     height: 480px;
     margin-left: 60px;
+    margin-right: 100px;
+
 }
 
-.restno{
+.restno {
     display: table-cell;
     float: left;
     margin-left: 190px;
-    margin-top: 60px;
+    margin-top: 150px;
 }
 
-.textno{
+.textno {
     text-align: center;
     display: table-cell;
     float: left;
@@ -82,5 +79,16 @@ h1{
     align-content: flex-start;
     border: 3px solid #000000;
     border-radius: 10px;
-    margin-top: 170px;
+    margin-top: 200px;
+}
+
+.DD {
+    text-align: center;
+    font-family: 'Sanrio';
+}
+
+.nor {
+    text-align: center;
+    font-family: 'Sanrio';
+
 }
